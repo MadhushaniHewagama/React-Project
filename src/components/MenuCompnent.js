@@ -17,6 +17,9 @@ function RenderMenuItem ({dish, onClick}) {
     );
 }
 
+function RenderLeader(){
+    
+}
     const Menu = (props) => {
 
         const menu = props.dishes.map((dish) => {
