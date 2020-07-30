@@ -83,3 +83,9 @@ Yarn add reactstrap react-popper
 yarn add font-awesome  
 yarn add bootstrap-social
 yarn add react-router-dom
+
+yarn add redux
+yarn add react-redux
+(if error used npm install react)
+
+yarn add react-redux-form
