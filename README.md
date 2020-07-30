@@ -89,3 +89,5 @@ yarn add react-redux
 (if error used npm install react)
 
 yarn add react-redux-form
+yarn add redux-thunk
+yarn add redux-logger
