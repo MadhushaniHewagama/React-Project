@@ -201,6 +201,20 @@
       "comment": "It's your birthday, we're gonna party!",
       "author": "25 Cent",
       "date": "2011-12-02T17:57:28.556094Z"
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "comment": "Good",
+      "date": "2020-07-30T13:06:50.223Z",
+      "id": 20
+    },
+    {
+      "dishId": 0,
+      "rating": "4",
+      "comment": "gbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+      "date": "2020-07-30T13:07:27.611Z",
+      "id": 21
     }
   ],
   "promotions": [
@@ -263,6 +277,16 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    },
+    {
+      "firstname": "hklj;j;",
+      "lastname": ";jlo;i",
+      "telnum": "0000000000",
+      "email": "sfs@sdf.df",
+      "agree": false,
+      "contactType": "Tel.",
+      "message": "sgs",
+      "id": 2
     }
   ]
 }

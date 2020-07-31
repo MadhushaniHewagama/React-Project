@@ -99,3 +99,10 @@ yarn add redux-logger
 
 
 yarn add cross-fetch
+yarn add react-transition-group
+yarn add react-animation-components
+yarn add prop-types
+
+
+## deployment
+npm run build
